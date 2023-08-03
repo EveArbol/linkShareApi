@@ -23,3 +23,5 @@ node --watch app.js
 3. Run `npm run initDb` to create the necessary tables in the database.
 
 4. Run `npm run dev` to launch the server.
+
+## some test
